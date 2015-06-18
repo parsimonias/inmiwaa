@@ -1,0 +1,3 @@
+cell;node;server;app;lib
+localhostCell01;localhostNode01;server1;DefaultApplication;jython-cell
+localhostCell01;localhostNode01;server1;DefaultApplication;dummy-lib
